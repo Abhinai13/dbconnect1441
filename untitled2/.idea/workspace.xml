@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +178,7 @@
       <workItem from="1552310614374" duration="2131000" />
       <workItem from="1552329005478" duration="1412000" />
       <workItem from="1552957894340" duration="710000" />
-      <workItem from="1552958724040" duration="1004000" />
+      <workItem from="1552958724040" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1552266696455</created>
@@ -211,7 +212,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15445000" />
+    <option name="totallyTimeSpent" value="16043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="7" />
