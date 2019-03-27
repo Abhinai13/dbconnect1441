@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8d18e855-197c-4fb0-8121-00bc80ff8d3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Laravel3" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel5" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Laravel5/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel5/resources/views/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel5/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel5/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="64" />
     <option name="y" value="308" />
     <option name="width" value="2800" />
@@ -180,6 +181,7 @@
       <workItem from="1552329005478" duration="1412000" />
       <workItem from="1552957894340" duration="710000" />
       <workItem from="1552958724040" duration="1602000" />
+      <workItem from="1553726543896" duration="273000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1552266696455</created>
@@ -213,13 +215,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16043000" />
+    <option name="totallyTimeSpent" value="16316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1513" height="973" extended-state="7" />
+    <frame x="32" y="154" width="1400" height="920" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24398625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24739195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,7 +234,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49965635" weight="0.32977462" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49965635" visible="true" weight="0.46381968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49965635" visible="true" weight="0.46329114" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003436" side_tool="true" weight="0.3084223" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
